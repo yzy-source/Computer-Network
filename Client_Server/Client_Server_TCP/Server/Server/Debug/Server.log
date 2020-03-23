@@ -1,0 +1,17 @@
+﻿生成启动时间为 2016/11/8 17:10:53。
+     1>项目“G:\学习\计算机网络\code\Client_Server_TCP\Server\Server\Server.vcxproj”在节点 2 上(Build 个目标)。
+     1>ClCompile:
+         H:\VisualStudio2012\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /sdl /Od /Oy- /D WIN32 /D _WINDOWS /D _DEBUG /D _UNICODE /D UNICODE /D _AFXDLL /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Yu"stdafx.h" /Fp"Debug\Server.pch" /Fo"Debug\\" /Fd"Debug\vc110.pdb" /Gd /TP /analyze- /errorReport:prompt ServerSocket.cpp
+         ServerSocket.cpp
+       Link:
+         H:\VisualStudio2012\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"G:\学习\计算机网络\code\Client_Server_TCP\Server\Debug\Server.exe" /INCREMENTAL /NOLOGO /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /manifestinput:H:\VisualStudio2012\VC\Include\Manifest\dpiaware.manifest /DEBUG /PDB:"G:\学习\计算机网络\code\Client_Server_TCP\Server\Debug\Server.pdb" /SUBSYSTEM:WINDOWS /TLBID:1 /ENTRY:"wWinMainCRTStartup" /DYNAMICBASE /NXCOMPAT /IMPLIB:"G:\学习\计算机网络\code\Client_Server_TCP\Server\Debug\Server.lib" /MACHINE:X86 Debug\Server.res
+         Debug\Server.obj
+         Debug\ServerDlg.obj
+         Debug\ServerSocket.obj
+         Debug\stdafx.obj
+         Server.vcxproj -> G:\学习\计算机网络\code\Client_Server_TCP\Server\Debug\Server.exe
+     1>已完成生成项目“G:\学习\计算机网络\code\Client_Server_TCP\Server\Server\Server.vcxproj”(Build 个目标)的操作。
+
+生成成功。
+
+已用时间 00:01:09.71
