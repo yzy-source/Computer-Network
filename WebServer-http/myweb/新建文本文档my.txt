@@ -1,0 +1,15 @@
+<html>
+<head>
+<title>计算机网络第二次作业--Web网页</title>
+</head>
+<body  bgcolor="#EEFFFF">
+
+<center>
+<h3>This is my first Web </h3>
+<hr/>
+<font face="楷体_GB2312" size="7" color="#000000">Welcome To My Web!Here are some clicks!
+size=&quot;1&quot;
+</front><br/>
+</center>
+</body>
+</html>
